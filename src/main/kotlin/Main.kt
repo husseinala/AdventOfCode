@@ -1,5 +1,5 @@
 fun main() {
     val startTime = System.currentTimeMillis()
-    DaySix.solve()
+    DaySeven.solve()
     println("Run time: ${System.currentTimeMillis() - startTime}ms")
 }
